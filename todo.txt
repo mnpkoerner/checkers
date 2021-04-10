@@ -7,3 +7,6 @@ websocket for game chat, computer AI for single player mode,
  - Live user chat/chat bot vs. computer (avenue for ML and brain.js)
  - user avatar?
  - multiplayer - random match? send code to friend? lobby?
+
+
+ 

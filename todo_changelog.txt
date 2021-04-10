@@ -1,0 +1,3 @@
+3/9 - Mark
+Added router to App.js for client side routing
+Add Spike component, notes for functionality in Spike comments
